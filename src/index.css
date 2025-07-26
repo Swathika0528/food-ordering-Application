@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width:5vw;
+    display: flex;
+    border-radius: 25%;
+    border-radius: 50%;
+    padding:5px 20px;
+    
+
+    
+
+}
+.menu{
+    display: flex;
+    gap: 20px;
+    font-size: x-large;
+    
+    
+    justify-content: space-between;
+   
+   
+
+}
+
+.header{
+    display: flex;
+    background-color: lightblue;
+    justify-content: space-between;
+    
+    align-items:center;
+
+    
+
+
+}
+.Cardimg{
+
+  
+    width:100%;
+    border-radius: 10px;
+
+
+}
+
+.body{
+    padding:10vh,10vw;
+}
+
+.menu{
+    display:flex;
+    gap:6vw;
+    font-size: x-large;
+}
+
+.Card{
+    background-color: grey;
+    
+    width: 20vw;
+    padding:20px;
+    border-radius: 10px;
+
+}
+
+.Card-Container{
+    margin-top: 10vh;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 20px;
+   
+    
+    
+
+}
+
+
